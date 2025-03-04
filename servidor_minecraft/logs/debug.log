@@ -586,3 +586,172 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [04Mar2025 07:37:07.591] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
 [04Mar2025 07:40:29.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [04Mar2025 07:40:30.010] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 07:45:29.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 07:45:29.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 07:50:29.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 07:50:29.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:50:52.048] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:50:52.050] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:50:52.073] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:50:52.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:46645] logged in with entity id 267 at (-37.5, 70.0, 28.5)
+[04Mar2025 07:50:52.161] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@51a77925 into net.minecraft.network.Connection@723d898a
+[04Mar2025 07:50:52.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:51:22.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:51:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:51:32.014] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:51:32.015] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:51:32.025] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:51:32.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:55437] logged in with entity id 437 at (-37.5, 70.0, 28.5)
+[04Mar2025 07:51:32.085] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5ecdec05 into net.minecraft.network.Connection@47ab1446
+[04Mar2025 07:51:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:52:02.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:52:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:52:46.017] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:52:46.023] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:52:46.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:53417] logged in with entity id 509 at (-37.5, 67.30543845175121, 28.5)
+[04Mar2025 07:52:46.081] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@4a95fccb into net.minecraft.network.Connection@26687509
+[04Mar2025 07:52:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:09.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:53:09.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:53:13.868] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:53:13.875] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:53:13.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:45739] logged in with entity id 598 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:53:13.931] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@67960a6b into net.minecraft.network.Connection@592bb6d4
+[04Mar2025 07:53:13.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:20.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:53:20.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:53:24.084] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:53:24.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:53:24.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:46575] logged in with entity id 618 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:53:24.182] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@46a97ff5 into net.minecraft.network.Connection@69dcb53e
+[04Mar2025 07:53:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:54.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:53:54.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:54:01.360] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:54:01.377] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:54:01.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:59993] logged in with entity id 691 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:54:01.433] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@69eaaa44 into net.minecraft.network.Connection@7bbf2930
+[04Mar2025 07:54:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:54:31.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:54:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:54:37.165] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:54:37.166] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:54:37.176] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:54:37.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:51801] logged in with entity id 767 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:54:37.230] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@3bdc0f0d into net.minecraft.network.Connection@20ee02c3
+[04Mar2025 07:54:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:55:07.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:55:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:55:29.312] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.312] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.312] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.312] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:55:29.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:55:29.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:55:29.323] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:55:29.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:42711] logged in with entity id 835 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:55:29.377] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@432b9d6b into net.minecraft.network.Connection@27884f7
+[04Mar2025 07:55:29.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:55:29.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 07:55:29.994] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 07:55:40.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:55:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:56:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made nexlayer278 a server operator
+[04Mar2025 07:56:11.911] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 07:56:11.912] [Netty Epoll Server IO #3/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 07:56:11.923] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 07:56:11.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:57965] logged in with entity id 877 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:56:11.977] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@5a694c25 into net.minecraft.network.Connection@1c2c90d6
+[04Mar2025 07:56:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:56:42.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:56:42.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:57:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 07:57:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[04Mar2025 08:00:29.981] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[04Mar2025 08:00:29.986] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[04Mar2025 08:01:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:01:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[04Mar2025 08:02:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:02:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: server off<--[HERE]
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from vanilla
+[04Mar2025 08:02:21.167] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new vanilla impl connection.
+[04Mar2025 08:02:21.173] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[04Mar2025 08:02:21.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:51027] logged in with entity id 963 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 08:02:21.226] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.VanillaConnectionNetworkFilter@1253deb2 into net.minecraft.network.Connection@1971c909
+[04Mar2025 08:02:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 08:02:27.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 08:02:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 08:04:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:04:22.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: x<--[HERE]
+[04Mar2025 08:04:25.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:04:25.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: +<--[HERE]

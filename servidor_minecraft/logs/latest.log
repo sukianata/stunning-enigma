@@ -99,3 +99,54 @@
 [04Mar2025 07:35:30.007] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 26136 ms
 [04Mar2025 07:35:30.008] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.035s)! For help, type "help"
 [04Mar2025 07:35:30.022] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[04Mar2025 07:50:52.153] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:46645] logged in with entity id 267 at (-37.5, 70.0, 28.5)
+[04Mar2025 07:50:52.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:51:22.278] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:51:22.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:51:32.085] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:55437] logged in with entity id 437 at (-37.5, 70.0, 28.5)
+[04Mar2025 07:51:32.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:52:02.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:52:02.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:52:46.080] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:53417] logged in with entity id 509 at (-37.5, 67.30543845175121, 28.5)
+[04Mar2025 07:52:46.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:09.776] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:53:09.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:53:13.931] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:45739] logged in with entity id 598 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:53:13.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:20.779] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:53:20.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:53:24.181] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:46575] logged in with entity id 618 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:53:24.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:53:54.277] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:53:54.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:54:01.432] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:59993] logged in with entity id 691 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:54:01.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:54:31.577] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:54:31.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:54:37.229] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:51801] logged in with entity id 767 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:54:37.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:55:07.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:55:07.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:55:29.377] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:42711] logged in with entity id 835 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:55:29.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:55:40.328] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 07:55:40.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:56:04.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made nexlayer278 a server operator
+[04Mar2025 07:56:11.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:57965] logged in with entity id 877 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 07:56:11.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 07:56:42.076] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Timed out
+[04Mar2025 07:56:42.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 07:57:27.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 07:57:27.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: restart<--[HERE]
+[04Mar2025 08:01:54.023] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:01:54.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: off<--[HERE]
+[04Mar2025 08:02:05.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:02:05.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: server off<--[HERE]
+[04Mar2025 08:02:21.226] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: nexplayer278[/127.203.69.76:51027] logged in with entity id 963 at (-37.5, 67.07180644570873, 28.5)
+[04Mar2025 08:02:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 joined the game
+[04Mar2025 08:02:27.626] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: nexplayer278 lost connection: Disconnected
+[04Mar2025 08:02:27.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: nexplayer278 left the game
+[04Mar2025 08:04:22.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:04:22.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: x<--[HERE]
+[04Mar2025 08:04:25.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[04Mar2025 08:04:25.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: +<--[HERE]
